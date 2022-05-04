@@ -1,0 +1,33 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+.headerdiv {
+  background: #ff00cc;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #333399, #ff00cc);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #333399, #ff00cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  margin-top: 1vh;
+  padding: 40px;
+  text-align: center;
+  border-radius: 0.75vh;
+}
+
+.headerh1 {
+  font-size: 5vh;
+  color: white;
+}
+
+.headertext {
+  font-size: 2.5vh;
+  color: white;
+}
+
+.logo {
+  margin-top: -1.25%;
+  float: left;
+  height: 23vh;
+  width: 23vh;
+  border-radius: 50%;
+}

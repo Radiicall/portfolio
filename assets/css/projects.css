@@ -8,7 +8,7 @@
   display: inline-block;
   width: 30%;
   margin-top: 1.5%;
-  border-radius: 1vh;
+  border-radius: 9px;
   margin-left: 1.5%;
   margin-right: 1.5%;
   text-decoration: none;
@@ -16,17 +16,19 @@
 
 .projectheader {
   text-align: center;
-  font-size: 4.5vh;
+  font-size: 2.5vw;
   color: white;
   padding-right: 1vw;
   font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .projecttext {
   text-align: center;
-  font-size: 2.5vh;
+  font-size: 1.5vw;
   color: white;
   padding-right: 1vw;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .projectlogo {
@@ -35,7 +37,7 @@
   margin-left: 1vw;
   margin-right: 1vw;
   float: left;
-  height: 23vh;
-  width: 23vh;
+  height: 10vw;
+  width: 10vw;
   border-radius: 50%;
 }

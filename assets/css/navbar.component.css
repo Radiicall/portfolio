@@ -1,8 +1,12 @@
 .navbar-menu {
   background-color: rgb(63, 51, 90);
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
   border-radius: 7px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 .navbar-item {
@@ -10,6 +14,7 @@
   text-decoration: none;
   text-align: center;
   outline: none;
+  font-size: 130%;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   margin: none;

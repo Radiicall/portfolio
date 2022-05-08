@@ -15,6 +15,8 @@
 <template>
   <link rel="stylesheet" href="assets/css/app.css"> 
   <div id='app'>
+    <br/>
+    <br/>
     <NuxtPage />
   </div>
 </template>

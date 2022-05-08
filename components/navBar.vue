@@ -2,8 +2,9 @@
   <link rel="stylesheet" href="../assets/css/navbar.component.css"> 
   <div class="navbar-menu">
     <div>
-      <router-link to="/" class="navbar-item">Home</router-link>
-      <router-link to="/projects" class="navbar-item">Projects</router-link>
+      <a href="/" class="navbar-item">Home</a>
+      <a href="/projects" class="navbar-item">Projects</a>
+      <a href="/private" class="navbar-item">Private</a>
     </div>
   </div>
 </template>

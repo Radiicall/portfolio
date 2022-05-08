@@ -1,8 +1,5 @@
 <template>
   <link rel="stylesheet" href="~/assets/css/personal.component.css"> 
-  <Head>
-    <Title>Private</Title>
-  </Head>
   <NavBar />
   <div class="maindivp">
     <a href="https://nc.radical.fun" class="projectdiv" style="background-color: #006aa3;">

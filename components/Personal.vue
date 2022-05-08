@@ -1,6 +1,5 @@
 <template>
   <link rel="stylesheet" href="~/assets/css/personal.component.css"> 
-  <NavBar />
   <div class="maindivp">
     <a href="https://nc.radical.fun" class="projectdiv" style="background-color: #006aa3;">
       <img src="/nextcloud-logo.png" alt="Nextcloud-logo" class="projectlogo"/>

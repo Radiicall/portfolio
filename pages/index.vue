@@ -5,7 +5,7 @@
   </Head>
   <NavBar />
   <div class="headerdiv">
-    <img src="logo.gif" alt="logo" class="logo" />
+    <a href="https://github.com/Radiicall"><img src="logo.gif" alt="logo" class="logo" /></a>
     <h1 class="headerh1">Radical</h1>
     <p class="headertext">Programmer, Computer Enthusiast, Linux Enthusiast.</p>
   </div>

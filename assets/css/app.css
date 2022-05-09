@@ -1,5 +1,10 @@
 html {
-  background: rgb(45, 38, 66);
+  background-color: rgb(45, 38, 66);
+  background-image: url(/background.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  background-size: cover;
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;

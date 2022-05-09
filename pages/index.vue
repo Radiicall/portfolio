@@ -12,5 +12,5 @@
   <div class="maindiv" id="personal">
     <h1 class="mainheader">Personal</h1>
   </div>
-  <Personal />
+  <Personal/>
 </template>

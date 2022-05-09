@@ -1,8 +1,3 @@
-<script>
-let time = 5;
-</script>
-
-
 <template>
   <link rel="stylesheet" href="~/assets/css/projects.css"> 
   <Head>
@@ -10,37 +5,54 @@ let time = 5;
   </Head>
   <NavBar />
   <div class="pmaindiv">
-    <a href="https://github.com/Crymepunk/memebot" class="projectdiv" style="animation-delay: 0.5s;">
+    <a href="https://github.com/Crymepunk/memebot" class="projectdiv" style="animation-delay: 0.2s;">
       <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
       <h1 class="projectheader">Memebot</h1>
       <p class="projecttext">A GPT-2 Memebot written in Python</p>
     </a>
-    <a href="https://github.com/Crymepunk/rajikaru-bot" class="projectdiv" style="animation-delay: 1s;">
+    <a href="https://github.com/Crymepunk/rajikaru-bot" class="projectdiv" style="animation-delay: 0.4s;">
       <img src="/rajikaru-logo.png" alt="rajikaru-logo" class="projectlogo" />
       <h1 class="projectheader">Rajikaru</h1>
       <p class="projecttext">A discord bot<br/> made in JavaScript</p>
     </a>
-    <a href="https://github.com/Crymepunk/rajikaru.xyz" class="projectdiv" style="animation-delay: 1.5s;">
+    <a href="https://github.com/Crymepunk/rajikaru.xyz" class="projectdiv" style="animation-delay: 0.6s;">
       <img src="/rajikaru-logo.png" alt="rajikaru-logo" class="projectlogo" />
       <h1 class="projectheader">Rajikaru.xyz</h1>
       <p class="projecttext">Website for the<br/> Rajikaru bot</p>
     </a>
   </div>
   <div class="pmaindiv">
-    <a href="https://github.com/Radiicall/rock-paper-scissors" class="projectdiv" style="animation-delay: 2s;">
+    <a href="https://github.com/Radiicall/rock-paper-scissors" class="projectdiv" style="animation-delay: 0.4s;">
       <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
       <h1 class="projectheader">RPS</h1>
       <p class="projecttext">A simple rock paper scissors game</p>
     </a>
-    <a href="https://github.com/Radiicall/companyWebsite" class="projectdiv" style="animation-delay: 2.5s;">
+    <a href="https://github.com/Radiicall/companyWebsite" class="projectdiv" style="animation-delay: 0.6s;">
       <img src="/sneik-logo.png" alt="github-logo" class="projectlogo" />
       <h1 class="projectheader">Sneik</h1>
       <p class="projecttext">A website for a fake company</p>
     </a>
-    <a href="https://github.com/Radiicall/scripts" class="projectdiv" style="animation-delay: 3s;">
+    <a href="https://github.com/Radiicall/scripts" class="projectdiv" style="animation-delay: 0.8s;">
       <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
       <h1 class="projectheader">Scripts</h1>
-      <p class="projecttext">A couple of scripts i made for fun</p>
+      <p class="projecttext">A couple of scripts I made for fun</p>
+    </a>
+  </div>
+  <div class="pmaindiv">
+    <a href="https://github.com/Radiicall/survey" class="projectdiv" style="animation-delay: 0.6s;">
+      <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
+      <h1 class="projectheader">Survey</h1>
+      <p class="projecttext">Survey website school project</p>
+    </a>
+    <a href="/project/server" class="projectdiv" style="animation-delay: 0.8s;">
+      <img src="/tux-logo.png" alt="tux-logo" class="projectlogo" />
+      <h1 class="projectheader">Server</h1>
+      <p class="projecttext">The server im running this website on!</p>
+    </a>
+    <a href="" class="projectdiv" style="animation-delay: 1s;">
+      <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
+      <h1 class="projectheader">Another project</h1>
+      <p class="projecttext">text about the project</p>
     </a>
   </div>
   <div class="psecondarydiv">
@@ -52,7 +64,7 @@ let time = 5;
 <!--
   // Template
   <a href="" class="projectdiv">
-    <img src="github-logo.png" alt="github-logo" class="projectlogo" />
+    <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
     <h1 class="projectheader">Another project</h1>
     <p class="projecttext">text about the project</p>
   </a>

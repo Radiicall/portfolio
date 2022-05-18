@@ -1,5 +1,5 @@
 <template>
-  <link rel="stylesheet" href="../assets/css/navbar.component.css"> 
+  <link rel="stylesheet" href="/assets/css/navbar.component.css"> 
   <nav class="navbar-menu">
     <div>
       <a href="/" class="navbar-item">Home</a>

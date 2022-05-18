@@ -1,5 +1,5 @@
 <template>
-  <link rel="stylesheet" href="~/assets/css/index.css"> 
+  <link rel="stylesheet" href="/assets/css/index.css"> 
   <Head>
     <Title>Main</Title>
   </Head>

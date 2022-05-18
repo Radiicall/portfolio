@@ -1,5 +1,5 @@
 <template>
-  <link rel="stylesheet" href="~/assets/css/projects.css"> 
+  <link rel="stylesheet" href="/assets/css/projects.css"> 
   <Head>
     <Title>Projects</Title>
   </Head>
@@ -42,17 +42,12 @@
     <a href="https://github.com/Radiicall/survey" class="projectdiv" style="animation-delay: 0.6s;">
       <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
       <h1 class="projectheader">Survey</h1>
-      <p class="projecttext">Survey website school project</p>
+      <p class="projecttext">Survey website<br/>school project</p>
     </a>
-    <a href="/project/server" class="projectdiv" style="animation-delay: 0.8s;">
-      <img src="/tux-logo.png" alt="tux-logo" class="projectlogo" />
-      <h1 class="projectheader">Server</h1>
-      <p class="projecttext">The server im running this website on!</p>
-    </a>
-    <a href="" class="projectdiv" style="animation-delay: 1s;">
+    <a href="https://github.com/Radiicall/rs-tests" class="projectdiv" style="animation-delay: 0.8s;">
       <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
-      <h1 class="projectheader">Another project</h1>
-      <p class="projecttext">text about the project</p>
+      <h1 class="projectheader">RS-Tests</h1>
+      <p class="projecttext">A script I wrote<br/>to learn Rust</p>
     </a>
   </div>
   <div class="psecondarydiv">

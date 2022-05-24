@@ -37,12 +37,12 @@
 .maindiv {
   display: block;
   background-color: rgb(55, 49, 87);
-  margin-top: -1%;
+  margin-top: 0%;
   margin-bottom: -1%;
   margin-left: 42%;
   margin-right: 42%;
   border-radius: 50px;
-  animation: fadeIn 1s;
+  animation: fadeIn 0.5s;
 }
 
 .mainheader {
@@ -50,4 +50,22 @@
   color: white;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.abtdiv {
+  background: #24C6DC;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  margin-top: 0.75vw;
+  margin-bottom: 20%;
+  padding: 1vw;
+  text-align: center;
+  border-radius: 7px;
+  animation: fadeIn 1s;
+}
+
+.abttext {
+  color: white;
+  white-space: 10%;
+  font-size: 110%;
 }

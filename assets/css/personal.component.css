@@ -6,7 +6,7 @@
 .maindivp {
   display: flex;
   justify-content: center;
-  animation: fadeIn 1.75s;
+  animation: fadeIn 1s;
 }
 
 .projectdiv {

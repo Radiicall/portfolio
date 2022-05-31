@@ -15,7 +15,7 @@
   <div class="abtdiv">
     <p class="abttext">
       Hi👋, my name is <b>Benjamin</b>, I live in <b>Norway</b>🇳🇴 and I'm studying🧑‍🎓 to become a <b>Software Developer</b>🧑‍💻.<br/><br/>
-      I'm interested in <b>Backend Development</b> and my favorite languages at the moment are <b>Rust</b>🦀, <b>JavaScript</b> and <b>Python</b>🐍.<br/><br/>
+      I'm interested in <b>Backend Development</b> and my favorite languages at the moment are <b>Rust</b>🦀, <b>JavaScript</b>☕️⚰️ and <b>Python</b>🐍.<br/><br/>
       This website has a collection of all the projects that I've worked on in the past few months.
     </p>
   </div>

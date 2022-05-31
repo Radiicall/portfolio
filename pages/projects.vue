@@ -3,7 +3,11 @@
   <Head>
     <Title>Projects</Title>
   </Head>
-  <NavBar />
+  <NavBar/>
+  <div class="psecondarydiv">
+    <h1 class="pmainheader">Some of my Projects</h1>
+    <p class="pparagraph">Here are some of my favorite projects I have worked on over the past few years.</p>
+  </div>
   <div class="pmaindiv">
     <a href="https://github.com/Crymepunk/memebot" class="projectdiv" style="animation-delay: 0.2s;">
       <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
@@ -49,10 +53,23 @@
       <h1 class="projectheader">RS-Tests</h1>
       <p class="projecttext">A script I wrote<br/>to learn Rust</p>
     </a>
+    <a href="https://github.com/Radiicall/miscLib" class="projectdiv" style="animation-delay: 1s;">
+      <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
+      <h1 class="projectheader">miscLib</h1>
+      <p class="projecttext">A python module<br/>written in Rust</p>
+    </a>
   </div>
-  <div class="psecondarydiv">
-    <h1 class="pmainheader">Some of my Projects</h1>
-    <p class="pparagraph">Here are some of my favorite projects I have worked on over the past few years.</p>
+  <div class="pmaindiv">
+    <a href="https://github.com/Radiicall/pwdgenerator" class="projectdiv" style="animation-delay: 0.8s;">
+      <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
+      <h1 class="projectheader">PwdGen</h1>
+      <p class="projecttext">Shitty GUI pwd generator made in Rust </p>
+    </a>
+    <a href="https://github.com/Radiicall/fizzbuzz-rs" class="projectdiv" style="animation-delay: 1s;">
+      <img src="/github-logo.png" alt="github-logo" class="projectlogo" />
+      <h1 class="projectheader">Fizzbuzz-RS</h1>
+      <p class="projecttext">fizzbuzz written in Rust!</p>
+    </a>
   </div>
 </template>
 

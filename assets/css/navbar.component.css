@@ -8,17 +8,27 @@
   left: 0;
   width: 100%;
   z-index: 2;
+  display: block;
+}
+
+.navbar-div1 {
+  float: left;
+}
+
+.navbar-div2 {
+  float: right;
+  margin-right: 2.5%;
 }
 
 .navbar-item {
-  padding: 1% 2%;
+  padding: 5% 2%;
   text-decoration: none;
   text-align: center;
   outline: none;
   font-size: 130%;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
-  margin: none;
+  margin: 10%;
   border-radius: 5%;
 }
 
